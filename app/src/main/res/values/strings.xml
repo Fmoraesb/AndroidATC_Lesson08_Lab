@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidATC_Lesson08_Lab</string>
+    <string name="btn_Go">GO</string>
+    <string name="lbl_Result">Notification Result</string>
+    <string name="channel_name">Notificação Padrão</string>
+    <string name="channel_description">Meu Primeiro Canal</string>
+</resources>
